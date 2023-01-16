@@ -4,9 +4,11 @@
 
 [[Project Website](https://shihmengli.github.io/3D-Photo-Inpainting/)]
 
-<p float='left'>
-<img src='./my_images/cat.jpg' width='200'/> | <img src='./my_images/dog.jpg' width='200'/>
-</p>
+[//]: # (<p float='left'>)
+
+[//]: # (<img src='./my_images/cat.jpg' width='200'/> | <img src='./my_images/dog.jpg' width='200'/>)
+
+[//]: # (</p>)
 
 This project proposes a method for converting a single RGB-D input image into a 3D photo.
 <br/>
